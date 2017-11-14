@@ -24,6 +24,7 @@
 
 <ul>
 	<li><a href="https://github.com/king-menin/python-course/blob/master/lecture%208.%20python%20and%20WEB/python%20and%20web.pdf">Лекция 8. Python и WEB.</a><br><i>Описание</i>: в первой части лекции вы узнаете об "устройстве интернета". Клиент-серверное взаимодейстие. Краткое описание протокола http. "Вводные" слова об HTML или как браузеры показывают веб-странички. Будут рассмотрены запросы методами get и post. Как создать свой клиент на питон, или как сделать запрос данных данных у википедии или гугла. Рассказано как майнить данные и парсить HTML в питон (lxml и BeautifulSoup). Как написать собственный сервер на питон (bottle). Во второй части лекции будет доклад о проекте 2kinopoisk.ru с примерами и алгоритмами реализации конкретных подзадач при создании сайта и проблем с этим связанных.<br><a href="https://github.com/king-menin/python-course/blob/master/problems%208/problems%208.ipynb">Задание</a>: предлагается создать сервер, который содержит в себе библиотеку книг. Также требуетсяпроверить гипотезу про статьи википедии.</li>
+	<li><a href="https://github.com/king-menin/python-course/blob/master/lecture%209.%20Multi-threaded%20programming%20with%20python/multi-thread%20programming%20with%20python.pdf">Лекция 9.<br><i>Описание</i>: На данной лекции даются основные знания по потокам и процессам. Разбираются библиотеки subprocess, threading, multiprocess. Приводятся краткие пояснения работы Global Interpreter Lock (GIL).<br><a href="">Задание</a>: </li>
 </ul>
 
 ## Authors
@@ -40,7 +41,7 @@
 * [метаклассы](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/Metaprogramming.html)
 * [mro (advanced)](https://www.python.org/download/releases/2.3/mro/)
 * [itertools](https://docs.python.org/2/library/itertools.html)
-
+* [GIL](http://asvetlov.blogspot.ru/2011/07/gil.html)
 ### книги:
 * [(begginer level): dive into python](http://www.diveintopython3.net/)
 * [(begginer level): a byte of python](https://python.swaroopch.com/)
