@@ -60,7 +60,6 @@ def sign_up():
 def login():
     if current_user.is_authenticated:
         return redirect('/')
-
     form = LoginForm()
     if form.validate_on_submit():
         login_user(User(form.name.data))
@@ -73,6 +72,21 @@ def login():
 def logout():
     logout_user()
     return redirect('/')
+
+@app.route("/add", methods=['POST', 'GET'])
+@login_required
+def add():
+    if not current_user.is_authenticated:
+        return redirect('/')
+    form = AddForm()
+    if form.validate_on_submit():
+        todo = form.todo.data
+        name = current_user.get_id()
+        user_data[name][len(user_data[name])] = todo
+        store_database()
+        return redirect('/')
+    return render_template('add.html', form=form)
+
 
 if __name__ == "__main__":
     app.secret_key = 'key'

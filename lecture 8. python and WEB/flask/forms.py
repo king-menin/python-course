@@ -24,3 +24,6 @@ class SignupForm(FlaskForm):
 class LoginForm(FlaskForm):
     name = TextField('name', validators=[Required(), check_user_exists])
     password = PasswordField('password', validators=[Required(), lambda f, p: check_password(f, p)])
+
+class AddForm(FlaskForm):
+    todo = TextField('todo', validators=[Required()])
