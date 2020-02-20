@@ -17,10 +17,13 @@
 ### Часть 1. Синтаксис.
 
 <ul>
-	<li><a href="https://github.com/king-menin/python-course/blob/master/L1.intro-python/L1.intro-python.pdf">Лекция 1. Python Введение. Основные структуры языка.</a><br><i>Описание</i>: на первой лекции разбираются основные конструкции языка, последовательности выполнения операций, циклы, переменные, объекты и их свойства (Identity, Type, Value). Garbage Collector. Изменяемые и неизменяемые объекты. Стандартные контейнеры. Функции. Библиотека collections.<br>Задание: условие в конце лекции 1.</li>
+	<li><a href="https://github.com/king-menin/python-course/blob/master/L1.intro-python/L1.intro-python.pdf">Лекция 1. Python Введение. Основные структуры языка.</a><br><i>Описание</i>: на первой лекции разбираются основные конструкции языка, последовательности выполнения операций, циклы, переменные, объекты и их свойства (Identity, Type, Value). Garbage Collector. Изменяемые и неизменяемые объекты. Стандартные контейнеры. Функции. Библиотека collections.<br>Задание: условие в конце лекции 1.<b>Deadline: 27.02.2020</b></li>
 	<li><a href="https://github.com/king-menin/python-course/blob/master/L2.strings/intro-python-2.pdf">Лекция 2. Python. Введение. Строки, кодировки, файлы.</a><br><i>Описание</i>: на второй лекции разбиаются кодировки, строки в python (стандартные функции str). Как работает интерпретатор со строками. Частично затрагиваются менеджеры контекста. Разбираются потоки ввода, вывода и ошибок. <br>
 	<a href="https://github.com/king-menin/python-course/blob/master/L2.strings/samples.ipynb">Примеры с лекции</a>
+	<br><i>Задание</i>: Знакомство со строками. Реализация алогритма передачи данных: <a href="https://github.com/king-menin/python-course/blob/master/HWS/HW2.ipynb">часть 1</a>, <b>Deadline: 05.03.2020</b>.
 	</li>
+	<li><a href="https://github.com/king-menin/python-course/blob/master/L3.OOP/oop1.pdf">Лекция 3. Python. ООП.</a><br><i>Описание</i>: третья лекция включает разбор основных принципов ООП в питон. Классы и экземпляры. Наследование в питон и алгоритм MRO. Магические методы в питон. Объясняется как осуществляется доступ к атрибутам класса.
+<br><i>Задание</i>: Знакомство с магическими функциями в питон. Реализация классов CounterGetter, Vector: <a href="https://github.com/king-menin/python-course/blob/master/HWS/HW2.ipynb">часть 2</a>, <b>Deadline: 05.03.2020</b>.
 </ul>
 
 ## Authors
@@ -28,7 +31,7 @@
 * **Антон Емельянов** - *МФТИ, кафедра АТП* - *login-const@mail.ru*
 
 ## Литература и полезные ссылки
-
+* [Дебаг в ноутбуке](https://davidhamann.de/2017/04/22/debugging-jupyter-notebooks/)
 * [python docs](https://docs.python.org/3/)
 * [.format](https://pyformat.info/)
 * [импорт в питоне](http://asvetlov.blogspot.ru/2010/05/blog-post.html), [импорт в питоне ч.2](http://asvetlov.blogspot.ru/2010/05/blog-post.html)
