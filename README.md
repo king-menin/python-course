@@ -22,7 +22,8 @@
 	<a href="https://github.com/king-menin/python-course/blob/master/L2.strings/samples.ipynb">Примеры с лекции</a>
 	<br><i>Задание</i>: Знакомство со строками. Реализация алогритма передачи данных: <a href="https://github.com/king-menin/python-course/blob/master/HWS/HW2.ipynb">часть 1</a>, <b>Deadline: 05.03.2020</b>.
 	</li>
-	<li><a href="https://github.com/king-menin/python-course/blob/master/L3.OOP/oop1.pdf">Лекция 3. Python. ООП.</a><br><i>Описание</i>: третья лекция включает разбор основных принципов ООП в питон. Классы и экземпляры. Наследование в питон и алгоритм MRO. Магические методы в питон. Объясняется как осуществляется доступ к атрибутам класса.
+	<li><a href="https://github.com/king-menin/python-course/blob/master/L3.OOP/oop1.pdf">Лекция 3. Python. ООП.</a><br><i>Описание</i>: третья лекция включает разбор основных принципов ООП в питон. Классы и экземпляры. Наследование в питон и алгоритм MRO. Магические методы в питон. Объясняется как осуществляется доступ к атрибутам класса.<br>
+	<a href="https://github.com/king-menin/python-course/blob/master/L3.OOP/samples.ipynb">Примеры с лекции</a>
 <br><i>Задание</i>: Знакомство с магическими функциями в питон. Реализация классов CounterGetter, Vector: <a href="https://github.com/king-menin/python-course/blob/master/HWS/HW2.ipynb">часть 2</a>, <b>Deadline: 05.03.2020</b>.
 </ul>
 
