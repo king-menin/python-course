@@ -16,6 +16,9 @@
 
 <ul>
 	<li><a href="https://github.com/king-menin/python-course/blob/master/L1.intro-python/L1.intro-python.pdf">Лекция 1. Python Введение. Основные структуры языка.</a><br><i>Описание</i>: на первой лекции разбираются основные конструкции языка, последовательности выполнения операций, циклы, переменные, объекты и их свойства (Identity, Type, Value). Garbage Collector. Изменяемые и неизменяемые объекты. Стандартные контейнеры. Функции. Библиотека collections.<br>Задание: условие в конце лекции 1.</li>
+	<li><a href="https://github.com/king-menin/python-course/blob/master/L2.strings/intro-python-2.pdf">Лекция 2. Python. Введение. Строки, кодировки, файлы.</a><br><i>Описание</i>: на второй лекции разбиаются кодировки, строки в python (стандартные функции str). Как работает интерпретатор со строками. Частично затрагиваются менеджеры контекста. Разбираются потоки ввода, вывода и ошибок. <br>
+	<a href="https://github.com/king-menin/python-course/blob/master/L2.strings/samples.ipynb">Примеры с лекции</a>
+	</li>
 </ul>
 
 ## Authors
