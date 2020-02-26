@@ -27,7 +27,7 @@
 <br><i>Задание</i>: Знакомство с магическими функциями в питон. Реализация классов CounterGetter, Vector: <a href="https://github.com/king-menin/python-course/blob/master/HWS/HW2.ipynb">часть 2</a>, <b>Deadline: 05.03.2020</b>.
 	<li><a href="https://github.com/king-menin/python-course/blob/master/L4.scopes_closures_decorators/scopes_closures_decorators.pdf">Лекция 4. Области видимости. Замыкания. Декораторы.</a><br><i>Описание</i>: на лекции разбираются анонимные функции, области видимости переменных и контексты. Объяснение правила LEBG. Приводятся и объясняются сложные примеры замыканий с атрибутами и методами. Разбирается работа декораторов в питон. Стандартная библиотека functions. Классы декораторы и функции декораторы.<br>
 	<a href="https://github.com/king-menin/python-course/blob/master/L4.scopes_closures_decorators/samples.ipynb">Примеры с лекции</a>
-<br><i>Задание</i>: Знакомство с магическими функциями в питон. Реализация классов CounterGetter, Vector: <a href="https://github.com/king-menin/python-course/blob/master/HWS/HW2.ipynb">часть 2</a>, <b>Deadline: 12.03.2020</b>.
+<br><i><a href="https://github.com/king-menin/python-course/blob/master/HWS/HW3.ipynb">Задание</a></i>: написать следующие декораторы - кэширования результатов функции (@cached), проверки типов аргументов функции (@checked) и декоратор логирования выполнения функции (@Logger). <b>Deadline: 12.03.2020</b>.
 </ul>
 
 ## Authors
