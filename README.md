@@ -26,10 +26,14 @@
 	</li>
 	<li><a href="https://github.com/king-menin/python-course/blob/master/L3.OOP/oop1.pdf">Лекция 3. Python. ООП.</a><br><i>Описание</i>: третья лекция включает разбор основных принципов ООП в питон. Классы и экземпляры. Наследование в питон и алгоритм MRO. Магические методы в питон. Объясняется как осуществляется доступ к атрибутам класса.<br>
 	<a href="https://github.com/king-menin/python-course/blob/master/L3.OOP/samples.ipynb">Примеры с лекции</a>
-<br><i>Задание</i>: Знакомство с магическими функциями в питон. Реализация классов CounterGetter, Vector: <a href="https://github.com/king-menin/python-course/blob/master/HWS/HW2.ipynb">часть 2</a>, <b>Deadline: 05.03.2020</b>.
+<br><i>Задание</i>: Знакомство с магическими функциями в питон. Реализация классов CounterGetter, Vector: <a href="https://github.com/king-menin/python-course/blob/master/HWS/HW2.ipynb">часть 2</a>, <b>Deadline: 05.03.2020</b>.</li>
 	<li><a href="https://github.com/king-menin/python-course/blob/master/L4.scopes_closures_decorators/scopes_closures_decorators.pdf">Лекция 4. Области видимости. Замыкания. Декораторы.</a><br><i>Описание</i>: на лекции разбираются анонимные функции, области видимости переменных и контексты. Объяснение правила LEBG. Приводятся и объясняются сложные примеры замыканий с атрибутами и методами. Разбирается работа декораторов в питон. Стандартная библиотека functions. Классы декораторы и функции декораторы.<br>
 	<a href="https://github.com/king-menin/python-course/blob/master/L4.scopes_closures_decorators/samples.ipynb">Примеры с лекции</a>
-<br><i><a href="https://github.com/king-menin/python-course/blob/master/HWS/HW3.ipynb">Задание</a></i>: написать следующие декораторы - кэширования результатов функции (@cached), проверки типов аргументов функции (@checked) и декоратор логирования выполнения функции (@Logger). <b>Deadline: 12.03.2020</b>.
+<br><i><a href="https://github.com/king-menin/python-course/blob/master/HWS/HW3.ipynb">Задание</a></i>: написать следующие декораторы - кэширования результатов функции (@cached), проверки типов аргументов функции (@checked) и декоратор логирования выполнения функции (@Logger). <b>Deadline: 12.03.2020</b>.</li>
+	<li><i><a href="https://github.com/king-menin/python-course/blob/master/L5.terators_and_generators/iterators_and_generators.pdf">Лекция 6. Итераторы и генераторы.</a>
+<br><i>Описание</i>: на этой лекции мы узнаем, как работает цикл for, что такое итератор и протоколы итерирования. Как создавать собственные итераторы. Кратко будет рассмотрено такое свойство итеаторов как исчерпаемость. Объяснение устройства и работы генераторов. Встроенные генераторы map, filter, enumerate, zip. Стандартная библиотека для работы с генераторами itertools.<br><a href="https://github.com/king-menin/python-course/blob/master/L5.terators_and_generators/samples.ipynb">Примеры с лекции</a>
+<br><i>
+Задание</i>: скоро. <b>Deadline: 26.03.2020</b></li>
 </ul>
 
 ## Authors
