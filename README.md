@@ -33,7 +33,7 @@
 	<li><i><a href="https://github.com/king-menin/python-course/blob/master/L5.terators_and_generators/iterators_and_generators.pdf">Лекция 5. Итераторы и генераторы.</a></i>
 <br><i>Описание</i>: на этой лекции мы узнаем, как работает цикл for, что такое итератор и протоколы итерирования. Как создавать собственные итераторы. Кратко будет рассмотрено такое свойство итеаторов как исчерпаемость. Объяснение устройства и работы генераторов. Встроенные генераторы map, filter, enumerate, zip. Стандартная библиотека для работы с генераторами itertools.<br><a href="https://github.com/king-menin/python-course/blob/master/L5.terators_and_generators/samples.ipynb">Примеры с лекции</a>
 <br><i>
-Задание</i>: скоро. <b>Deadline: 26.03.2020</b></li>
+<a href="https://github.com/king-menin/python-course/blob/master/HWS/HW4.ipynb">Задание</a></i>: разобраться со стандартными итераторами и механизмом работы генераторов. <b>Deadline: 26.03.2020</b></li>
 </ul>
 
 ## Authors
