@@ -37,9 +37,11 @@
 	<li><a href="https://github.com/king-menin/python-course/blob/master/L6.descriptors_and_metaclasses/oop%202.pdf">Лекция 6. Дескрипторы и мета классы.</a><br><i>Описание</i>: на этой лекции вы почувствуете все мощь питона (всю боль) и узнаете, как работают декораторы property, что такое дескриптор данных. Подробно будет рассмотрен алгоритм получения атрибутов в питон, как использовать собственные дескрипторы данных в своей программе. Во второй части лекци будут рассмотрены следующие вопросы: что такое type в питон, как создаются классы (что происходит, когда мы пишем <code>class SomeClass(object):</code>), что такое мета класс, применение мета классов. В том числе будет рассмотрен "хороший метод" (more power!) создания дескриптора с помощью мета класса.<br><a href="https://github.com/king-menin/python-course/blob/master/L6.descriptors_and_metaclasses/samples.ipynb">Примеры с лекции</a>
 <br><i>
 		<br><a href="https://github.com/king-menin/python-course/blob/master/HWS/HW5.ipynb">Задание</a></i>: напишите мета класс PropertyCreator для создания свойств класса. Напишите метакласс InstanceCountExeptioner, который будет следить за количеством экземпляров класса, использующих его. Напишите метакласс JSONClassCreator , который будет по json представлению строить новый класс и обратно. <b>Deadline: 02.04.2020</b></li>
+</ul>
 
 ### Часть 2. Синтаксис.
-	
+
+<ul>
 	<li><a href="https://github.com/king-menin/python-course/blob/master/L7.python_and_WEB/python_and_web.pdf">Лекция 7. Python и WEB.</a><br><i>Описание</i>: в первой части лекции вы узнаете об "устройстве интернета". Клиент-серверное взаимодейстие. Краткое описание протокола http. "Вводные" слова об HTML или как браузеры показывают веб-странички. Будут рассмотрены запросы методами get и post. Как создать свой клиент на питон, или как сделать запрос данных данных у википедии или гугла. Рассказано как майнить данные и парсить HTML в питон (lxml и BeautifulSoup). Как написать собственный сервер на питон (bottle).<br><a href="https://github.com/king-menin/python-course/blob/master/L7.python_and_WEB/samples.ipynb">Примеры с лекции</a>
 <br><i>
 		<br><a href="https://github.com/king-menin/python-course/blob/master/HWS/HW6.ipynb">Задание</a></i>: предлагается создать сервер, который содержит в себе библиотеку книг. Также требуетсяпроверить гипотезу про статьи википедии. <b>Deadline: 09.04.2020</b></li>
