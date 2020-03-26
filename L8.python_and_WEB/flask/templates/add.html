@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}
+<head>
+    <title>Bucket List</title>
+
+    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/3.3/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+</head>
+{% endblock %}
+
+{% block content %}
+    <div class="row marketing">
+        <div class="jumbotron">
+            {% from "_formhelpers.html" import render_field %}
+            <form name="login_form" class="form-signin" action="/add" method="POST">
+                {{ render_field(form.todo, class="form-control", placeholder="todo", autofocus=true) }}
+                {{ form.csrf_token }}
+                <input class="btn btn-lg btn-primary btn-block" type="submit" value="add">
+            </form>
+        </div>
+    </div>
+{% endblock %}
