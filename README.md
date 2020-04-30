@@ -45,11 +45,17 @@
 	<li><a href="https://github.com/king-menin/python-course/blob/master/L7.python_and_WEB/python_and_web.pdf">Лекция 7. Python и WEB.</a><br><i>Описание</i>: в первой части лекции вы узнаете об "устройстве интернета". Клиент-серверное взаимодейстие. Краткое описание протокола http. "Вводные" слова об HTML или как браузеры показывают веб-странички. Будут рассмотрены запросы методами get и post. Как создать свой клиент на питон, или как сделать запрос данных данных у википедии или гугла. Рассказано как майнить данные и парсить HTML в питон (lxml и BeautifulSoup). Как написать собственный сервер на питон (bottle).<br><a href="https://github.com/king-menin/python-course/blob/master/L7.python_and_WEB/samples.ipynb">Примеры с лекции</a>
 <br><i>
 		<br><a href="https://github.com/king-menin/python-course/blob/master/HWS/HW6.ipynb">Задание</a></i>: предлагается создать сервер, который содержит в себе библиотеку книг. Также требуетсяпроверить гипотезу про статьи википедии. <b>Deadline: 09.04.2020</b></li>
+
+<li><a href="https://www.youtube.com/watch?v=mkv5mxYu0Wk">Лекция 8. Python и data и ml.</a></li>
+
+<li>Лекция 9. Faster python.<a href="https://www.youtube.com/watch?v=8qEnExGLZfY">Часть 1.</a>, <a href="https://www.youtube.com/watch?v=mXuEoqK4bEc">Часть 2.</a><br><i>Описание</i>: в первой части данной лекции расказывается о том, как можно оценивать время работы программы и как ускорить свой код. Подробно разбирается cython. Также рассмотрен пример работы pypy. В последней части лекции объясняется как можно создавать свои модули для python на c/c++ с помощью ctypes или Python.h.
+<br><i>
+		<br><a href="https://github.com/king-menin/python-course/blob/master/HWS/HW7.ipynb">Задание</a></i>: Исследование ускорения питон кода. <b>Deadline: Конец курса</b></li>
 </ul>
 
 ## Authors
 
-* **Антон Емельянов** - *МФТИ, кафедра АТП* - *login-const@mail.ru*
+* **Антон Емельянов** - *МФТИ, кафедра АТП / кафедра 1С* - *login-const@mail.ru*
 
 ## Литература и полезные ссылки
 * [Дебаг в ноутбуке](https://davidhamann.de/2017/04/22/debugging-jupyter-notebooks/)
